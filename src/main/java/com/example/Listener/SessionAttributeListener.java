@@ -1,4 +1,6 @@
-package com.example.servlet1;
+package com.example.Listener;
+
+import com.example.servlet1.MyWebSocket;
 
 import javax.servlet.ServletContext;
 import javax.servlet.http.HttpSessionAttributeListener;

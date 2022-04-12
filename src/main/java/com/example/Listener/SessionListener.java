@@ -1,4 +1,6 @@
-package com.example.servlet1;
+package com.example.Listener;
+
+import com.example.servlet1.MySessionContext;
 
 import javax.servlet.http.HttpSession;
 import javax.servlet.http.HttpSessionEvent;
